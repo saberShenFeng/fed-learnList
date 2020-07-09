@@ -27,7 +27,7 @@
 
 #### 变量和类型
 
-###### 1.`JavaScript`规定了几种语言类型？难度：⭐️
+###### 1.`JavaScript`规定了几种数据类型？难度：⭐️
 
 <details><summary><b>答案</b></summary>
 	<p>
